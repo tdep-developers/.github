@@ -1,4 +1,8 @@
-# Temperature Dependent Effective Potentials (TDEP)
-This page is in the making. Please have a look here in the meantime: 
+# TDEP: Temperature Dependent Effective Potentials
+Welcome to the TDEP code project!
 
-http://ollehellman.github.io/
+Right now, you can find:
+
+- [the TDEP code repository](https://github.com/tdep-developers/tdep)
+- [code tutorials (under construction)](https://github.com/tdep-developers/tdep-tutorials)
+- [information about the TDEP summer school](https://liu.se/en/research/tdep2023)
